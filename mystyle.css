@@ -1,0 +1,502 @@
+.left2{
+    background-size: cover;
+    margin-left: 10px;
+    overflow-x: hidden; /* Hide horizontal scrollbar */
+}
+.img{
+    display: grid;
+    align-items: center;
+}
+.series-type a{
+    text-decoration: none;
+}
+.mc{
+    overflow-x: hidden; /* Hide horizontal scrollbar */
+    background: linear-gradient(0deg, #09C6FF 0%, #020229 100%); 
+}
+.right1{
+    background-size: cover;
+}
+.Nevertheless a{
+    text-decoration: none;
+}
+.story{
+    display: flex;
+    align-items: left;
+}
+.in1{
+    background-size: cover;
+}
+.review{
+    display: flex;
+    justify-content: right;
+    align-items: right;
+}
+.end1{
+    display: flex;
+    align-items: left;
+    justify-content: left;
+}
+.div4{
+    margin-top: -20px;
+}
+.Nevertheless2 a{
+    text-decoration: none;
+}
+.Nevertheless3 a{
+    text-decoration: none;
+}
+.Nevertheless4 a{
+    text-decoration: none;
+}
+.Nevertheless5 a{
+    text-decoration: none;
+}
+.next {
+    display: flex;
+}
+.next-items a{
+    text-decoration: none;
+}
+.Nevertheless6 a{
+    text-decoration: none;
+}
+.end1{
+    font-family: 'Prompt', sans-serif;
+}
+.sub{
+    font-family: 'Prompt', sans-serif;
+}
+.director{
+    font-family: 'Prompt', sans-serif;
+}
+.cast{
+    font-family: 'Prompt', sans-serif;
+}
+.end2{
+    font-family: 'Prompt', sans-serif;
+    display: flex;
+}
+.Nevertheless7 a{
+    text-decoration: none;
+}
+.Nevertheless8 a{
+    text-decoration: none;
+}
+.div42{
+    display: flex;
+}
+.Nevertheless9 a{
+    text-decoration: none;
+}
+.Nevertheless10 a{
+    text-decoration: none;
+}
+.Nevertheless11 a{
+    text-decoration: none;
+}
+.Nevertheless12 a{
+    text-decoration: none;
+}
+.Nevertheless13 a{
+    text-decoration: none;
+}
+.Nevertheless14 a{
+    text-decoration: none;
+}
+.Nevertheless15 a{
+    text-decoration: none;
+}
+.Nevertheless16 a{
+    text-decoration: none;
+}
+.Nevertheless17 a{
+    text-decoration: none;
+}
+.Nevertheless18 a{
+    text-decoration: none;
+}
+.Nevertheless19 a{
+    text-decoration: none;
+}
+.Nevertheless20 a{
+    text-decoration: none;
+}
+.Nevertheless21 a{
+    text-decoration: none;
+}
+.Nevertheless22 a{
+    text-decoration: none;
+}
+.Nevertheless23 a{
+    text-decoration: none;
+}
+.Nevertheless24 a{
+    text-decoration: none;
+}
+.Nevertheless25 a{
+    text-decoration: none;
+}
+.Nevertheless26 a{
+    text-decoration: none;
+}
+.Nevertheless27 a{
+    text-decoration: none;
+}
+.Nevertheless28 a{
+    text-decoration: none;
+}
+.Nevertheless29 a{
+    text-decoration: none;
+}
+.Nevertheless30 a{
+    text-decoration: none;
+}
+.Nevertheless31 a{
+    text-decoration: none;
+}
+.Nevertheless36 a{
+    text-decoration: none;
+}
+.Nevertheless37 a{
+    text-decoration: none;
+}
+.Nevertheless38 a{
+    text-decoration: none;
+}
+.Nevertheless39 a{
+    text-decoration: none;
+}
+.Nevertheless40 a{
+    text-decoration: none;
+}
+.Nevertheless41 a{
+    text-decoration: none;
+}
+.Nevertheless42 a{
+    text-decoration: none;
+}
+.Nevertheless43 a{
+    text-decoration: none;
+}
+.Nevertheless44 a{
+    text-decoration: none;
+}
+.Nevertheless45 a{
+    text-decoration: none;
+}
+.Nevertheless46 a{
+    text-decoration: none;
+}
+.Nevertheless32 a{
+    text-decoration: none;
+}
+.Nevertheless33 a{
+    text-decoration: none;
+}
+.Nevertheless34 a{
+    text-decoration: none;
+}
+.Nevertheless35 a{
+    text-decoration: none;
+}
+.Nevertheless47 a{
+    text-decoration: none;
+}
+.Nevertheless51 a{
+    text-decoration: none;
+}
+.Nevertheless52 a{
+    text-decoration: none;
+}
+.Nevertheless53 a{
+    text-decoration: none;
+}
+.Nevertheless54 a{
+    text-decoration: none;
+}
+.Nevertheless55 a{
+    text-decoration: none;
+}
+.Nevertheless56 a{
+    text-decoration: none;
+}
+.Nevertheless57 a{
+    text-decoration: none;
+}
+.Nevertheless58 a{
+    text-decoration: none;
+}
+.Nevertheless59 a{
+    text-decoration: none;
+}
+.Nevertheless60 a{
+    text-decoration: none;
+}
+.Nevertheless61 a{
+    text-decoration: none;
+}
+.Nevertheless62 a{
+    text-decoration: none;
+}
+.Nevertheless63 a{
+    text-decoration: none;
+}
+.Nevertheless64 a{
+    text-decoration: none;
+}
+.Nevertheless65 a{
+    text-decoration: none;
+}
+.Nevertheless66 a{
+    text-decoration: none;
+}
+.Nevertheless67 a{
+    text-decoration: none;
+}
+.Nevertheless68 a{
+    text-decoration: none;
+}
+.Nevertheless69 a{
+    text-decoration: none;
+}
+.Nevertheless70 a{
+    text-decoration: none;
+}
+.Nevertheless71 a{
+    text-decoration: none;
+}
+.Nevertheless72 a{
+    text-decoration: none;
+}
+.Nevertheless76 a{
+    text-decoration: none;
+}
+.Nevertheless77 a{
+    text-decoration: none;
+}
+.Nevertheless78 a{
+    text-decoration: none;
+}
+.Nevertheless79 a{
+    text-decoration: none;
+}
+.Nevertheless80 a{
+    text-decoration: none;
+}
+.Nevertheless81 a{
+    text-decoration: none;
+}
+.Nevertheless82 a{
+    text-decoration: none;
+}
+.Nevertheless83 a{
+    text-decoration: none;
+}
+.Nevertheless84 a{
+    text-decoration: none;
+}
+.Nevertheless85 a{
+    text-decoration: none;
+}
+.quiz a{
+    text-decoration: none;
+}
+.Nevertheless86 a{
+    text-decoration: none;
+}
+.Nevertheless87 a{
+    text-decoration: none;
+}
+.Nevertheless88 a{
+    text-decoration: none;
+}
+.Nevertheless89 a{
+    text-decoration: none;
+}
+.Nevertheless90 a{
+    text-decoration: none;
+}
+.Nevertheless91 a{
+    text-decoration: none;
+}
+.Nevertheless92 a{
+    text-decoration: none;
+}
+.Nevertheless93 a{
+    text-decoration: none;
+}
+.Nevertheless94 a{
+    text-decoration: none;
+}
+.Nevertheless95 a{
+    text-decoration: none;
+}
+.Nevertheless96 a{
+    text-decoration: none;
+}
+.Nevertheless97 a{
+    text-decoration: none;
+}
+.Nevertheless98 a{
+    text-decoration: none;
+}
+.Nevertheless99 a{
+    text-decoration: none;
+}
+.Nevertheless100 a{
+    text-decoration: none;
+}
+.Nevertheless101 a{
+    text-decoration: none;
+}
+.Nevertheless102 a{
+    text-decoration: none;
+}
+.Nevertheless106 a{
+    text-decoration: none;
+}
+.Nevertheless107 a{
+    text-decoration: none;
+}
+.Nevertheless108 a{
+    text-decoration: none;
+}
+.Nevertheless109 a{
+    text-decoration: none;
+}
+.Nevertheless110 a{
+    text-decoration: none;
+}
+.Nevertheless48 a{
+    text-decoration: none;
+}
+.Nevertheless49 a{
+    text-decoration: none;
+}
+.Nevertheless50 a{
+    text-decoration: none;
+}
+.Nevertheless73 a{
+    text-decoration: none;
+}
+.Nevertheless74 a{
+    text-decoration: none;
+}
+.Nevertheless75 a{
+    text-decoration: none;
+}
+.Nevertheless103 a{
+    text-decoration: none;
+}
+.Nevertheless104 a{
+    text-decoration: none;
+}
+.Nevertheless105 a{
+    text-decoration: none;
+}
+.Nevertheless111 a{
+    text-decoration: none;
+}
+.Nevertheless112 a{
+    text-decoration: none;
+}
+.Nevertheless113 a{
+    text-decoration: none;
+}
+.Nevertheless114 a{
+    text-decoration: none;
+}
+.Nevertheless115 a{
+    text-decoration: none;
+}
+.Nevertheless116 a{
+    text-decoration: none;
+}
+.Nevertheless117 a{
+    text-decoration: none;
+}
+.Nevertheless118 a{
+    text-decoration: none;
+}
+.Nevertheless119 a{
+    text-decoration: none;
+}
+.Nevertheless120 a{
+    text-decoration: none;
+}
+.Nevertheless121 a{
+    text-decoration: none;
+}
+.Nevertheless122 a{
+    text-decoration: none;
+}
+.Nevertheless123 a{
+    text-decoration: none;
+}
+.Nevertheless124 a{
+    text-decoration: none;
+}
+.Nevertheless125 a{
+    text-decoration: none;
+}
+.Nevertheless126 a{
+    text-decoration: none;
+}
+.Nevertheless127 a{
+    text-decoration: none;
+}
+.Nevertheless128 a{
+    text-decoration: none;
+}
+.Nevertheless129 a{
+    text-decoration: none;
+}
+.Nevertheless130 a{
+    text-decoration: none;
+}
+.Nevertheless131 a{
+    text-decoration: none;
+}
+.Nevertheless132 a{
+    text-decoration: none;
+}
+.Nevertheless133 a{
+    text-decoration: none;
+}
+.Nevertheless134 a{
+    text-decoration: none;
+}
+.Nevertheless135 a{
+    text-decoration: none;
+}
+.Nevertheless136 a{
+    text-decoration: none;
+}
+.Nevertheless137 a{
+    text-decoration: none;
+}
+.Nevertheless138 a{
+    text-decoration: none;
+}
+.Nevertheless139 a{
+    text-decoration: none;
+}
+.Nevertheless140 a{
+    text-decoration: none;
+}
+.Nevertheless141 a{
+    text-decoration: none;
+}
+.Nevertheless142 a{
+    text-decoration: none;
+}
+.Nevertheless143 a{
+    text-decoration: none;
+}
+.Nevertheless144 a{
+    text-decoration: none;
+}
+.Nevertheless145 a{
+    text-decoration: none;
+}
